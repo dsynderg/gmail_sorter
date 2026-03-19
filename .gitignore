@@ -1,3 +1,5 @@
 .env
 .env.swp
 client_id.json
+/.venv
+/__pycache__
