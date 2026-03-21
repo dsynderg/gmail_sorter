@@ -3,3 +3,4 @@
 client_id.json
 /.venv
 /__pycache__
+token.json
